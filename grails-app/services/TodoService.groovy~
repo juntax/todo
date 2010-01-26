@@ -1,0 +1,8 @@
+class TodoService {
+
+    boolean transactional = true
+
+    def serviceMethod() {
+
+    }
+}
